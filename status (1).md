@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Dhruv Khandave
 
 #### Your section leader's name
 
-TODO
+Xinwen Zhang
 
 #### Project title
 
-TODO
+Full Pokedex
 
 ***
 
@@ -18,12 +18,13 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Looked at the videos for the pokedex under modules in Canvas Stored half of the data needed in a csv file
+
+
 
 #### What have you not done for your project yet?
-
-TODO
+A code to show the pokemon in the pokedex by using the data stored.
 
 #### What problems, if any, have you encountered?
 
-TODO
+No problems faced until now.
